@@ -1,0 +1,4 @@
+com\synword\SynwordConfiguration.class
+com\synword\App.class
+com\synword\dao\ConnectDAO.class
+com\synword\representations\Words.class

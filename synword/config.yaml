@@ -1,0 +1,10 @@
+message: This is a message defined in the configuration file config.yaml.
+messageRepetitions: 3
+database:
+      driverClass: com.mysql.jdbc.Driver
+user: floki
+password: Epemobopu420
+url: jdbc:mysql://felf.ga:3007/floki
+properties:
+    charSet: UTF-8
+validationQuery: "/* MyService Health Check */ SELECT 1"
